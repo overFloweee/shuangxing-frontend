@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cad2018f-619e-4647-b810-d8f0377cd94f" name="更改" comment="双星伙伴匹配系统 第一次提交" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="G:\JAVA\apache-maven-3.8.7-bin\maven\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../apache-maven-3.8.7-bin/apache-maven-3.8.7" />
+        <option name="useMavenConfig" value="false" />
+        <option name="userSettingsFile" value="G:\JAVA\apache-maven-3.8.7-bin\apache-maven-3.8.7\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2aXRduypBlfmfs6WfX1YLnJwtXS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "G:/JAVA/星球项目/伙伴匹配系统/shuangxing-frontend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "npm.build.executor": "Run",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "ts.external.directory.path": "G:\\JAVA\\星球项目\\伙伴匹配系统\\shuangxing-frontend\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql",
+      "redis"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hjw.model.request" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="InsertTest.insert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shuangxing-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hjw.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hjw.service" />
+      <option name="MAIN_CLASS_NAME" value="com.hjw.service.InsertTest" />
+      <option name="METHOD_NAME" value="insert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedissonTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shuangxing-backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hjw.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hjw.service" />
+      <option name="MAIN_CLASS_NAME" value="com.hjw.service.RedissonTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="yupao-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yupi.yupao.MyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShuangxingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="shuangxing-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hjw.ShuangxingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="cad2018f-619e-4647-b810-d8f0377cd94f" name="更改" comment="" />
+      <created>1704463027633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704463027633</updated>
+      <workItem from="1704463028767" duration="4297000" />
+      <workItem from="1704524496945" duration="3272000" />
+      <workItem from="1704546271508" duration="957000" />
+      <workItem from="1704547319755" duration="6758000" />
+      <workItem from="1704609048083" duration="8464000" />
+      <workItem from="1704695867333" duration="1312000" />
+      <workItem from="1704784652418" duration="8961000" />
+      <workItem from="1704866568147" duration="2755000" />
+      <workItem from="1704950705374" duration="12088000" />
+      <workItem from="1704987670883" duration="3813000" />
+      <workItem from="1705059302082" duration="9071000" />
+      <workItem from="1705126625288" duration="11920000" />
+      <workItem from="1705147183332" duration="1427000" />
+      <workItem from="1705149324069" duration="79000" />
+      <workItem from="1705149414715" duration="42000" />
+      <workItem from="1705149468908" duration="160000" />
+      <workItem from="1705149831173" duration="1079000" />
+      <workItem from="1705151669574" duration="34000" />
+      <workItem from="1705151823204" duration="313000" />
+      <workItem from="1705152901572" duration="1040000" />
+      <workItem from="1705203585167" duration="440000" />
+      <workItem from="1705204037094" duration="2660000" />
+      <workItem from="1705289006732" duration="1722000" />
+      <workItem from="1705300246444" duration="1748000" />
+      <workItem from="1705326955567" duration="777000" />
+    </task>
+    <task id="LOCAL-00001" summary="双星伙伴匹配系统 第一次提交">
+      <option name="closed" value="true" />
+      <created>1705327131244</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705327131244</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="双星伙伴匹配系统 第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="双星伙伴匹配系统 第一次提交" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
